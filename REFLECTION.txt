@@ -1,0 +1,4 @@
+I learned about making high level design choices that would impact the rest of my code down the line. 
+I think the most challenging part was thinking about what each method had to do. Many of my methods were long and 
+had many if statements. It would probably make my code better if those statements were written in helper methods to make it more readable.
+I need to improve on making my methods one purpose to make it more readable and understandable.
